@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Siwan College of Engineering and Manag_c09cd2</name>
+   <tag></tag>
+   <elementGuidId>a70da273-34ee-453c-9bde-28db7cabb5f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Siwan College of Engineering and Management, Siwan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03677804-2ee0-4cd6-bc15-778e4cda894f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName</value>
+      <webElementGuid>2d3303e8-d92c-4b72-98ee-39cc28bd24e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Siwan College of Engineering and Management, Siwan</value>
+      <webElementGuid>7e2e30bd-9e32-4748-ae67-4a8a2b180947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName&quot;)</value>
+      <webElementGuid>3ba63e3d-10f3-4b78-808f-23604c23a9ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName']</value>
+      <webElementGuid>46d1ba3a-4f1c-406f-af6b-8f82beae9028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder1_grdcollegeeng']/tbody/tr[16]/td[2]/span</value>
+      <webElementGuid>f5cdee83-b999-4501-b517-62380b1a91c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prabhu Kailash Engineering College, Aurangabad'])[1]/following::span[1]</value>
+      <webElementGuid>8ccac3b6-dcdd-4b1f-97d7-433600202fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar Engineering University, Patna'])[2]/preceding::span[1]</value>
+      <webElementGuid>85a9dd0d-2e91-4415-8bde-93f6b51f95a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Siwan College of Engineering and Management, Siwan']/parent::*</value>
+      <webElementGuid>66ce5f66-b680-46da-8b86-e7f7949bb356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[2]/span</value>
+      <webElementGuid>a5d5454a-f740-41fa-bafd-11cc54eab53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_ContentPlaceHolder1_grdcollegeeng_ctl16_lblName' and (text() = 'Siwan College of Engineering and Management, Siwan' or . = 'Siwan College of Engineering and Management, Siwan')]</value>
+      <webElementGuid>48707531-5787-4864-9fff-732f77290358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
